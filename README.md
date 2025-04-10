@@ -1,1 +1,2 @@
-# cse110-sp25-group07
+# Group 7 - 
+## [Team Page](admin/team.md)
