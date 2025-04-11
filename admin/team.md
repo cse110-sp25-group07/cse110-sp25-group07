@@ -9,8 +9,8 @@
   * 3rd Year CS student with a love for product management, education, and helping others
 * Karim Barajas - [Github Page]()
   * Description
-* Guthry Hahm - [Github Page]()
-  * Description
+* Guthry Hahm - [Github Page](https://guthryhahm.github.io/userPage/)
+  * 3rd Year CSE major, photography enthusiast, with an interest in computer graphics
 * Eric Nguyen - [Github Page]()
   * Description
 * Tanner Berman - [Github Page]()
