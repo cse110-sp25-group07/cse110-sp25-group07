@@ -5,7 +5,7 @@
 [text about team values]
 
 ## Roster
-* Ashton Simbol - [Github Page](https://github.com/AshSensei)
+* Ashton Simbol - [Github Page](https://ashsensei.github.io/User-Page/)
   * 3rd Year CS student with a love for product management, education, and helping others
 * Karim Barajas - [Github Page]()
   * Description
