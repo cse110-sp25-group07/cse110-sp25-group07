@@ -23,6 +23,6 @@
   * Description
 * Luis Guerrero Escoto - [Github Page]()
   * Description
-* Jonathan Renteria - [Github Page]()
-  * Description
+* Jonathan Renteria - [Github Page](https://j2renteriaucsd.github.io/UserPage/)
+  * 2nd Year CE major with a love for game development and cats
 
