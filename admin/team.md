@@ -13,8 +13,8 @@
   * 3rd Year CSE major, photography enthusiast, with an interest in computer graphics
 * Eric Nguyen - [Github Page]()
   * Description
-* Tanner Berman - [Github Page]()
-  * Description
+* Tanner Berman - [Github Page](https://bermantanner.github.io/tannerberman/)
+  * 3rd Year CS student, desire to build impactful software, loves guitar
 * Max Huang - [Github Page]()
   * Description
 * Preity Singh - [Github Page]()
