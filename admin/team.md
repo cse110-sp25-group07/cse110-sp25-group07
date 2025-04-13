@@ -19,8 +19,8 @@
   * Description
 * Preity Singh - [Github Page]()
   * Description
-* Graydon Leongkaye - [Github Page]()
-  * Description
+* Graydon Leongkaye - [Github Page](https://graydon759.github.io/Github-Pages-Project/)
+  * 3rd Year CS student, relatively new to coding, interested in video game development
 * Luis Guerrero Escoto - [Github Page]()
   * Description
 * Jonathan Renteria - [Github Page](https://j2renteriaucsd.github.io/UserPage/)
