@@ -25,4 +25,6 @@
   * Description
 * Jonathan Renteria - [Github Page](https://j2renteriaucsd.github.io/UserPage/)
   * 2nd Year CE major with a love for game development and cats
+* Vishruth Bharath - [Github Page](https://vishruthb.github.io/cse110-test-repo/)
+  * 3rd Year CS student who likes to code, interested in ML and systems
 
