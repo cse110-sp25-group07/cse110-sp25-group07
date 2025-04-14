@@ -1,8 +1,5 @@
-# [Team Name]
-[insert logo image]
-
-## Description
-[text about team values]
+# Team 7 - Sevens on the Stack
+![Team 7 Card Logo](branding/teamlogo.png)
 
 ## Roster
 * Ashton Simbol - [Github Page](https://ashsensei.github.io/User-Page/)
