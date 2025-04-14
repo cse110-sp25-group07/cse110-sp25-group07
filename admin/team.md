@@ -18,8 +18,8 @@
   * 2nd Year CS major who loves reading, the outdoors, and is interested in how tech meets people's needs.
 * Graydon Leongkaye - [Github Page](https://graydon759.github.io/Github-Pages-Project/)
   * 3rd Year CS student, relatively new to coding, interested in video game development
-* Luis Guerrero Escoto - [Github Page]()
-  * Description
+* Luis Guerrero Escoto - [Github Page](https://luisisawayy.github.io/110_lab1/)
+  * 3rd year CSE major, enjoyer of UFC and Soccer, and also abundantly interested in Computing
 * Jonathan Renteria - [Github Page](https://j2renteriaucsd.github.io/UserPage/)
   * 2nd Year CE major with a love for game development and cats
 * Vishruth Bharath - [Github Page](https://vishruthb.github.io/cse110-test-repo/)
