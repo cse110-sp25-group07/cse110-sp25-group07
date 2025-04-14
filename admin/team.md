@@ -1,8 +1,5 @@
-# [Team Name]
-[insert logo image]
-
-## Description
-[text about team values]
+# Team 7 - Sevens on the Stack
+![Team 7 Card Logo](branding/teamlogo.png)
 
 ## Roster
 * Ashton Simbol - [Github Page](https://ashsensei.github.io/User-Page/)
@@ -15,8 +12,8 @@
   * 2nd Year CS major who doesn't really know what he's doing yet.
 * Tanner Berman - [Github Page](https://bermantanner.github.io/tannerberman/)
   * 3rd Year CS student, desire to build impactful software, loves guitar
-* Max Huang - [Github Page]()
-  * Description
+* Max Huang - [Github Page](https://max-dwd.github.io/userPage/)
+  * 3rd year CS student who likes fitness and thinking about human mind.
 * Preity Singh - [Github Page](https://preity-singh.github.io/Lab1-110/)
   * 2nd Year CS major who loves reading, the outdoors, and is interested in how tech meets people's needs.
 * Graydon Leongkaye - [Github Page](https://graydon759.github.io/Github-Pages-Project/)
