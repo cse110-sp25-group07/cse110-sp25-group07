@@ -1,6 +1,8 @@
 # Team 7 - Sevens on the Stack
 ![Team 7 Card Logo](branding/teamlogo.png)
 
+## [Group Video](admin/videos/teamintro.mp4)
+
 ## Roster
 * Ashton Simbol - [Github Page](https://ashsensei.github.io/User-Page/)
   * 3rd Year CS student with a love for product management, education, and helping others
@@ -25,3 +27,4 @@
 * Vishruth Bharath - [Github Page](https://vishruthb.github.io/cse110-test-repo/)
   * 3rd Year CS student who likes to code, interested in ML and systems
 
+## [To README](README.md)
