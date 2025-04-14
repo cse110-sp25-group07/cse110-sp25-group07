@@ -4,8 +4,8 @@
 ## Roster
 * Ashton Simbol - [Github Page](https://ashsensei.github.io/User-Page/)
   * 3rd Year CS student with a love for product management, education, and helping others
-* Karim Barajas - [Github Page]()
-  * Description
+* Karim Barajas - [Github Page](https://kbarajas5432.github.io/CSE110Repo/)
+  * 4th Year CS student who likes working out and also interested in game development, software engineering, and also Quantative Finance
 * Guthry Hahm - [Github Page](https://guthryhahm.github.io/userPage/)
   * 3rd Year CSE major, photography enthusiast, with an interest in computer graphics
 * Eric Nguyen (he/him) - [Github Page](https://github.com/nericguyen)
