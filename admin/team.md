@@ -14,8 +14,8 @@
   * 3rd Year CS student, desire to build impactful software, loves guitar
 * Max Huang - [Github Page](https://max-dwd.github.io/userPage/)
   * 3rd year CS student who likes fitness and thinking about human mind.
-* Preity Singh - [Github Page]()
-  * Description
+* Preity Singh - [Github Page](https://preity-singh.github.io/Lab1-110/)
+  * 2nd Year CS major who loves reading, the outdoors, and is interested in how tech meets people's needs.
 * Graydon Leongkaye - [Github Page](https://graydon759.github.io/Github-Pages-Project/)
   * 3rd Year CS student, relatively new to coding, interested in video game development
 * Luis Guerrero Escoto - [Github Page]()
